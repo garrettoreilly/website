@@ -1,0 +1,50 @@
+body {
+    font-size: 30px;
+    background: #222;
+}
+code {
+    font-family: 'Gafata', helvetica, sans-serif;
+}
+.negative {
+    margin-right: -20px;
+}
+#title {
+    vertical-align: middle;
+}
+a.link{
+    text-decoration: none;
+    color: #A12D2A;
+    border-bottom: 1px solid #A12D2A;
+}
+a.link:hover{
+    text-decoration: none;
+    color: #A3A3A3;
+    border-bottom: 0px;
+}
+div.line {
+    display: block;
+}
+div.line code {
+    color: #333;
+}
+div.line #title {
+    color: #A12D2A;
+    font-size: 60px;
+}
+div.line .text {
+    color: #A12D2A;
+}
+div.line.indent1 {
+    margin-left: 30px;
+}
+div.line.indent2 {
+    margin-left: 60px;
+}
+div.line.indent3 {
+    margin-left: 90px;
+}
+img.links {
+    width: 40px;
+    padding: 2px 0px 2px;
+    vertical-align: middle;
+}
