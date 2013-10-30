@@ -14,7 +14,6 @@ code {
 a.link{
     text-decoration: none;
     color: #A12D2A;
-    border-bottom: 1px solid #A12D2A;
 }
 a.link:hover{
     text-decoration: none;
