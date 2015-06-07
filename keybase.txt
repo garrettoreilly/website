@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/garrett_oh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://garrettoreilly.com
+  * I am garrett_oh (https://keybase.io/garrett_oh) on keybase.
+  * I have a public key with fingerprint 8B6B C54B 0971 0B28 60D1  4709 532D 9ADF 4303 874E
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "8b6bc54b09710b2860d14709532d9adf4303874e",
+            "host": "keybase.io",
+            "key_id": "532d9adf4303874e",
+            "kid": "0101b73f20291ccf1191937d55849706f40c4c3b8420fc99f71659e0e6be3fa82b2b0a",
+            "uid": "3d1142e50812f89a774f0625cffba819",
+            "username": "garrett_oh"
+        },
+        "service": {
+            "hostname": "garrettoreilly.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1433654271,
+    "expire_in": 157680000,
+    "prev": "0ee996b2ac6eb9eda36408fa62cb39d18def3d51a7d85b9b6ca81e4d5fc7cd7e",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMM8AnicbZJ7UFR1FMd3ESp2EAiBoNLqDmkg0H0/lmHUlsomwGYErFCW+/jd3Suw
+F+9eFnYIW2Rb0x0QTBCVzB3k3VM0nLEBYZK0rbTJGchSHmZG4ljOaEwadC9TfzTT
+75/f/M75nO/5ne+cz5cuMZiMG9MOTliW7Mw1BofXVxjynd8tVEOcLLghczVUAhYv
+UXLYgFKuSA4VMkM0R3I8gXMwQyEwh9IkLCA4BTMEhgoMK4g4BmM0hQMoFbLLTr1C
+k+FYJ0iXZC2mPaySoEX/hy9ZTMAIjHAUJqIwyiA8LyIIgzAYJRAEjTMUTIo4zOM8
+xtE4Cos8w4gUQhIMgAHJAUxkaZRDOZjV5CoW5TABQXAUEDCNoCLNsBSFizCJErwo
+ciyNMDroBIqDLQMabWMVBaiqVbZDNamQFndJPNBN0Gf5LyMrQCotdafzcpmmUa7I
+qszLpVrerqrlZr1cdZfrfCXgrP8oWTnJIWh2agUuoDgl2QGZEY3kVUmXRnAMIwkc
+pZBUCFSVSwqwSjpBUCQNa0dvA1y6RwAwDMmhLE8CjgECi5E4TIssifIcxggILQAR
+EwiEpQSa4BiO5LVRAS4QIk/xAqWb7QTbHDJkxrVvsjZN0inZHKxaoQCoZmR4c6jB
+aDI8EBaiL4TBFB7975qoo1ELWywbt9y/2Dvjz4yfPD8SSHvRN7hi1BO8xIOTbPa+
+Ru7W8of+OtzQ/dy6fYGoTb8EfIT5lMVdG5UQr/q6fnUWvbthlZhO5V+5mda03Ff9
+Rcgr063d5s/qLEvD7gRrXm4/EwypTy4MvLPpVcQzR9u7Ql4/HeHuufHGSke96TE6
+LyN3r9dwM+7uRGf6tSRhWQpecOyZ/sq2gnnnLo+6H/3K6PX2Xh3fXFc2/3yWbWxq
+zHPSz7/nHY9bY5u4MO268GD4a227ycr+T8W04u2RT8wnDVz1ThSuyfokaxd3hGpp
+74ZLvrwzkfxm3IaIx6Ejf94PuKJq884eqOqZWZg8c3y83ppoOmtMYh99P+HEqum7
+5EhMkT/l0FsfGsdWc9MXv2/umBu6HJf8dISvnWg753syerJo6nrlEOS6MdjnbXW1
+BFqOhwb99tm3rcmFxY2xTaUx31qGivef45e98FHj+Uunsu07/T8c3m30uA5c+Xpv
+5iO90SMvfTBbcvt3JKWCabBkhjWs7crEc56K7RiOV44GEjzr6Lx77rZjt/5Q1R0H
+E/uzmy3btrYyp2NW5/XmrAi75t++fo/U9+OJxOTW4araGdAUWlgxeyhx7WVDJJz/
+bPPoDv7ofNKe6z/VNjEDt+dyZ2PnOlcO8OE/Z+QE65CtdQ//FvfxvcjUKUtCZ09G
+U983gykFHfIM/zfCo6aI
+=w+Z2
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/garrett_oh
+
+==================================================================
