@@ -4,66 +4,79 @@ https://keybase.io/garrett_oh
 
 I hereby claim:
 
-  * I am an admin of http://garrettoreilly.com
+  * I am an admin of https://garrettoreilly.com
   * I am garrett_oh (https://keybase.io/garrett_oh) on keybase.
   * I have a public key with fingerprint 8B6B C54B 0971 0B28 60D1  4709 532D 9ADF 4303 874E
 
 To do so, I am signing this object:
 
 {
-    "body": {
-        "key": {
-            "eldest_kid": "0101b73f20291ccf1191937d55849706f40c4c3b8420fc99f71659e0e6be3fa82b2b0a",
-            "fingerprint": "8b6bc54b09710b2860d14709532d9adf4303874e",
-            "host": "keybase.io",
-            "key_id": "532d9adf4303874e",
-            "kid": "0101b73f20291ccf1191937d55849706f40c4c3b8420fc99f71659e0e6be3fa82b2b0a",
-            "uid": "3d1142e50812f89a774f0625cffba819",
-            "username": "garrett_oh"
+    &quot;body&quot;: {
+        &quot;key&quot;: {
+            &quot;eldest_kid&quot;: &quot;0101b73f20291ccf1191937d55849706f40c4c3b8420fc99f71659e0e6be3fa82b2b0a&quot;,
+            &quot;fingerprint&quot;: &quot;8b6bc54b09710b2860d14709532d9adf4303874e&quot;,
+            &quot;host&quot;: &quot;keybase.io&quot;,
+            &quot;key_id&quot;: &quot;532d9adf4303874e&quot;,
+            &quot;kid&quot;: &quot;0101b73f20291ccf1191937d55849706f40c4c3b8420fc99f71659e0e6be3fa82b2b0a&quot;,
+            &quot;uid&quot;: &quot;3d1142e50812f89a774f0625cffba819&quot;,
+            &quot;username&quot;: &quot;garrett_oh&quot;
         },
-        "service": {
-            "hostname": "garrettoreilly.com",
-            "protocol": "http:"
+        &quot;merkle_root&quot;: {
+            &quot;ctime&quot;: 1500234196,
+            &quot;hash_meta&quot;: &quot;e491229d84f36ba9b2148fb229bd31cd5c3691556c0792fbc1ba96a1f616386d&quot;,
+            &quot;seqno&quot;: 1236733
         },
-        "type": "web_service_binding",
-        "version": 1
+        &quot;revoke&quot;: {
+            &quot;sig_ids&quot;: [
+                &quot;d061e073b1340c30b79f49f4e52dc7aadab81a7d7aa421cee72fdb7eec4ca8980f&quot;
+            ]
+        },
+        &quot;service&quot;: {
+            &quot;hostname&quot;: &quot;garrettoreilly.com&quot;,
+            &quot;protocol&quot;: &quot;https:&quot;
+        },
+        &quot;type&quot;: &quot;web_service_binding&quot;,
+        &quot;version&quot;: 1
     },
-    "ctime": 1497625989,
-    "expire_in": 157680000,
-    "prev": "8bcf1525dcaacc9f6b49cac5133977627902314b717426490b536a54c13ad9bb",
-    "seqno": 37,
-    "tag": "signature"
+    &quot;ctime&quot;: 1500234227,
+    &quot;expire_in&quot;: 157680000,
+    &quot;prev&quot;: &quot;b8da3dd4ba590e935036f86196f95dccb68db8753379cd4306e2c4602fca5b9d&quot;,
+    &quot;seqno&quot;: 46,
+    &quot;tag&quot;: &quot;signature&quot;
 }
 
 which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.72
+Version: Keybase OpenPGP v2.0.73
 Comment: https://keybase.io/crypto
 
-yMNGAnicrVJtUFRVGF5YBSEtYoQMhMHbkIG43u97z5oCoY0jCYGBNJK3+3Hu7o3d
-vevd5UukGRpAEpppIjJhDBVUhg9pkAA/ovh2pEhltKmwZXASwnQihyRyqrtM/Wim
-n50/Z857nuc5z/Oed3CV0RDos3tjrSfJeCjFZ7SvPtfwatJ8WREiqFIhYi5CcuDS
-Bm0SdLm5HEVCzAiKoZjAEDKO4gATRRnDAAYIRqIolgQMSsskKpIiIbAkjsoiADKD
-0RSAKKQFSMg8iwu4gPJIHCIrDgvUnJricOuyrEALIkUKKGAwVMBZGpUwkkEBReAS
-4CWZJFCCZUioE62qy8vQzQm8C5oUVa/pB27J3n/g/2ffuUtyhIRhJA4plMVwmQU8
-w5AySuOUKMsCz2LAC3RBzcHboY628JoG3W5OtSLFcYhez1NE6G2tN8u/MaoGFZut
-0CSqdl3DqaluVVRt+r3V7XaavXR3odOLz4cC97cSJygOSW+nTsiDmktRHYgZ05Gi
-W/FKY3pA3RpgQRwCC5yKBjnFi6AYmkX15X0G5i19gt4XCqckkedFEci0QAKRFymM
-IACjSzAAxQmMFBiMIXGaBKhAETRPkSJG8BIQBMSbbb9DRcwEo/vkLbqmS7E4eHeu
-BpHi/r7sZQafQIPfcl/vnBkCA4L+mT6tI8jwVn+pfCt1esdwmilEnok+NxObl14/
-fIpTGOZTP9v46JPW5eGjAyeT36hICbOIlWEjg/XrwY2pyMXYzps2+1DJYRnbn5s5
-lpYRtb3uz/WzoKN2R/JQ93fWhT/enfb82rmr4Vh0VcTZbR9G9N5/TbkD20xB6MCW
-+op4amWzIROONvGb731zN+tqV6rRZvNva5KC5Yn3Dp/dM8X5ngu15AefuaUdeSqr
-MdRTlN7Zkriq4fMSoj3xifnEI8FS9ab8KuPDtOq6o/fDo8MnpceOZnXNvmIum4u6
-ts7kObNioGa8NXKiv5R4O4Cr/bgZCUi8sfqjDxaukNapA9x135OmxINYnzuqn7t8
-fUOc4cDub+d+mRuPyoOtt7dnvHl88vlth2yO4ZnGoXtJPZc8TuDvF3Jlp988MVDZ
-/GLxJ52hjeV2tfdEZFdvQ7vx2ejCZ+z+8dnhI8u+P/g63V3svLNxk7IydN+KaZ+F
-rdHHSlMeni5PSO05X112F22jvlzn2be3v4T3r3mp42KBZ1fC6Z8Kfm6vKbWbYFBL
-5Zb0S9j0ZMbVmNmaxa+LXJtvx3w1veai5TyR2X2CSvePzXC5TuUX/vhoxBiedqG8
-YuKHCw0xCT3Jx78Y+52uEl94EP+OZevja/dacwZ/W3uzMyR3cfXLEZlJl20bEPtz
-rSl12XveLx97sKal6dG1z8Ke3vkXF266MQ==
-=Tvr9
+yMPdAnicrZN9TFZVHMdRXlTS0IVvgdPdVEzRnZf7dgCnhs2UiQyV9gj6dM695/Jc
+gefifa4EGk7NZIpsZeALlpiZ8yVLWpFvoag1UJOlE7VatrQ5oYEams3MzsNqy60/
+u7vbvffc7+/7+57POef0gMiI2F5zJ9ZeS4+syOx19uSKpRG+gqZfl0vMMcuklOVS
+Ae958EKThzx/gW1KKRKAADINWwggAg3DgpBAgjVTUXSZaEC1ZGDIBma6jIBlEGJp
+UFUIB1xlHFtURwwxQKVkybKD+dwtdu2gJ2x1pjJDkRkgGgQM6SowoawBomBkEmpa
+MgZY12QuCgNOKFwhwjEa4pNsR4yJD39PvP/Q/8+5l/bYYRNCGXEF6BBZOqGaJltA
+RYphWYzqkISFIe4GaREX6nzqutzz/E5AKk+WirhbUMj9ruN4YbyGZ4dFUAEAYRkS
+VUyRhgL+Iu5RUctlAhEipi5bWGWUMARl3WJiiJkYGqZiYJVARVENoBFkMQMKkUqh
+pUIV66opkoT4kqAjOiCsahiLBC4vcQp4uHnIzhfgQlJKrmQCFXKgYQaxYIEB04gl
+i5sryDQ0Sk3KdEg1U7zKCBqca8gymca54EZ1ogNLWlgebuaW2EaPeXilniTguNwu
+LCybZDhFIlex63iO4RSK/wHPKw6lhOl4ZcXhglc58/9t5Wd20BS7RVSUcDdkO0Ex
+F6F8EhxCWrLES4ttl/vtsELRVB2IK9yHlwhLppsUm6bMqEIAJ1gBWLV0VRC3iGIa
+BlN1k+magrFGDFPsIJUjQ1YBsgyqMPIvkrJYI4/mC0/BL0i9pS6Xyk825UVF9IqN
+iInuHT5GEbH9Bv5zuB5Uxz3O2Jf1aM2ITfHXfSk5K4/eOI74utbSW+feuD+n6PKc
+pLHdsbeXP+WbserMqOdbEhLfauu6817D1GELb53piuxsbnzYdOq1zuMvWiuHbrm3
+YQr7pfbcxG3n278NtJx4pm3Bli56aM+ExAM7Zydu7j/t45Ebd838oa80Zl2ud2hj
+x+u1o74yrl5YHP/5krtRcnV2i2p3fearHpy1qq0yd/sriX/kxcUsO1Q5+1z6wfsd
+8WDH4y9nbpqvLyy7EvPcsrVHf4+WtCo4rD41ldjjhzS33k34KTpn+OTM9MDxiu3N
+y17yp5V3r342ddxwkAM6IqPatt6uojur6r8ZueHlHfEHR+7OqN8zYq50uN9gdeCQ
+KY+G5XS7zTVpo9GkuD5PV8yGF38c0H9+0p8Jl/cefqANXb9Yr5vSZq6Jyb5bUffC
+B1vv77v3cGBmaUOOrxOP/eTnEYMz9mdmD2mesK/Bu3DtI19JzrjYB1HVV05erw1V
+3UlK95VW1p+O7hzbTb8Y8/XkaaP7Ko2jc6WVZ49MO1+1qOXT5BnvNkRWBRKmRk3v
+vFqRXSZbrTtT8xrTMurfbLuRbRzIAvI7F/tfWt15+9K27EJpUN7bU0fdLJeD05OO
+jW+qJKtO3BuX+N35ulkwDR87Uvb+b73b29vvDDi1YHdsSbBmRtfZRKf4yKCZu7x5
+HR/eqvmerp21t2tza/3qeTeH7x+zaEVjnz1/Afpa/BU=
+=s1wy
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -72,3 +85,4 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/garrett_oh
 
 ==================================================================
+
