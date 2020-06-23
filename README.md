@@ -1,1 +1,1 @@
-http://garrettoreilly.com
+https://heygarrett.com
